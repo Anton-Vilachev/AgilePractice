@@ -5,3 +5,8 @@
   - this is simply an amazing example of a situation working with a customer. He imagines a picture in his head, and the difficulty is not only in doing something, but also in understanding what picture he imagines in his head.
 5. When presenting theoretical material, definitions and complex terms are often supported by simple situations and examples.
 
+
+Most of the time it’s difficult to single out 5 things you didn’t like, but you can still do a couple.
+1. Estimation of the complexity of problems using Fibonacci numbers. It didn’t become clear to me why specifically for them? Why specifically for them?
+2. When we segmented the areas that we plan to paint, what is the principle for revaluing the points? Should the total complexity of small sections be equal to the initial complexity of the large one or not? Or is the point precisely that with segmentation the overall complexity can decrease? I misunderstood.
+3. Again to the example of painting. When we made a plan and, suppose, did not implement it. In my opinion, some examples could be given that the problem could be different: a poor assessment of the complexity of tasks, erroneous planning, or insufficient work efficiency. And ways to identify these problems in companies.
